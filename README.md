@@ -1,1 +1,1 @@
-I created basic stopwatch
+I created basic stopwatch app using flutter
